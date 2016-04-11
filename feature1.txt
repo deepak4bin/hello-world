@@ -1,1 +1,5 @@
-This is first line of feature1.
+This is first line of feature1
+This is 2nd line from master
+This is 3rd line from master
+this is 4th line from master
+this is 5th line from master.
