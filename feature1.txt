@@ -7,3 +7,5 @@ this is 5th line from master.
 this is 6th line from master
 this is 7th line from master.
 this is 8th line from master.
+Squash-test-commit1.
+Squash-test-commit2.
