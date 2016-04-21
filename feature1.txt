@@ -9,3 +9,6 @@ this is 7th line from master.
 this is 8th line from master.
 Squash-test-commit1.
 Squash-test-commit2.
+stest-commit1.
+stest-commit2.
+stest-commit3.
